@@ -1,4 +1,4 @@
-const texts = ['websites', 'mock ups', 'cookies'];
+const texts = ['websites', 'mock ups', 'cookies!'];
 
 let count = 0;
 let index = 0;
