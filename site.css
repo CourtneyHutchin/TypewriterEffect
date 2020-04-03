@@ -5,6 +5,13 @@ body {
     font-family: sans-serif;
 }
 
+h1, .typing {
+    margin-left: 25em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .intro {
     display: flex;
     color: white;
